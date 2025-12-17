@@ -5,7 +5,7 @@
 
 Hi，我是陈成，花名云谦，网上 id「sorrycc」，你也可以喊我「CC」。我 2008 年加入淘宝，2013 年转岗支付宝，目前 35+ 程序员，一线开发者，IC，P8。ZJU 校友。热爱编程、开源、分享和写作。
 
-我之前一直负责前端的工具和框架，是 [umi](https://github.com/umijs)、[dva](https://github.com/dvajs/dva)、[Mako](https://makojs.dev/)、[babel-plugin-import](https://github.com/umijs/babel-plugin-import)、[father](https://github.com/umijs/father)、[awesome-javascript](https://github.com/sorrycc/awesome-javascript)、[TNF](https://github.com/umijs/tnf) 等库的作者。==今年转做 AI，写 Code Agent，开源了 [Neovate Code](https://github.com/neovateai/neovate-code) 。==同时业余时间也有维护一个 AI 日刊 [modelwatch.dev](https://modelwatch.dev/)，欢迎订阅。
+我之前一直负责前端的工具和框架，是 [umi](https://github.com/umijs)、[dva](https://github.com/dvajs/dva)、[Mako](https://makojs.dev/)、[babel-plugin-import](https://github.com/umijs/babel-plugin-import)、[father](https://github.com/umijs/father)、[awesome-javascript](https://github.com/sorrycc/awesome-javascript)、[TNF](https://github.com/umijs/tnf) 等库的作者。今年转做 AI，写 Code Agent，开源了 [Neovate Code](https://github.com/neovateai/neovate-code) 。同时业余时间也有维护一个 AI 日刊 [modelwatch.dev](https://modelwatch.dev/)，欢迎订阅。
 
 除了这里，你还可以在 [X](https://twitter.com/chenchengpro)、[Telegram 频道](https://t.me/yqtalk)（碎碎念、更新频繁）、[B 站](https://space.bilibili.com/27472034) 和 [Github](https://github.com/sorrycc) 找到我。如果你想联系我，也可以用邮箱 <img src="https://img.alicdn.com/imgextra/i4/O1CN01ltwEFV1qnN7YwxY3F_!!6000000005540-2-tps-502-77.png" style="width:137px;height:21px;display:inline-block;vertical-align:middle;margin:0;padding:0;" /> 。
 
